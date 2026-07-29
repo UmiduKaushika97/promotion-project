@@ -12,6 +12,7 @@ function App() {
 <section>4</section>
 <section>56</section>
 <h1>promotion</h1>
+<h2>promotion</h2>
     </>
   )
 }
