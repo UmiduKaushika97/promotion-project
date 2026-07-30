@@ -13,6 +13,7 @@ function App() {
 <section>56</section>
 <h1>promotion</h1>
 <h2>promotion</h2>
+<h2>promotion</h2>
     </>
   )
 }
