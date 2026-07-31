@@ -14,6 +14,7 @@ function App() {
 <h1>promotion</h1>
 <h2>promotion</h2>
 <h2>promotion</h2>
+<h2>promotion3</h2>
     </>
   )
 }
