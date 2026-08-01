@@ -16,6 +16,7 @@ function App() {
 <h2>promotion</h2>
 <h2>promotion3</h2>
 <h2>promotion3</h2>
+<h2>promotion4</h2>
     </>
   )
 }
