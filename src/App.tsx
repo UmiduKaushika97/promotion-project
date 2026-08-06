@@ -20,6 +20,8 @@ function App() {
 <h4>promotion5</h4>
 <p>natigation tabs</p>
 <h5>Navigation added </h5>
+<p>navigation good</p>
+
     </>
   )
 }
