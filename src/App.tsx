@@ -61,6 +61,9 @@ function App() {
 
 <p>crete scratch </p>
 
+<h1>crete scratch </h1>
+<h2>crete scratch </h2>
+
     </>
   )
 }
